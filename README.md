@@ -1,3 +1,7 @@
+# WIP
+
+Still need to build out this documentation
+
 # Websocket Relay Server
 
 This is a websocket relay server with rooms for use in basic multiplayer game data relaying.
